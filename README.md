@@ -10,6 +10,8 @@
     3. Ставим нужные пакеты
     $ pip install -r requirements.txt
 
+    4. Ставим MongoDB и RabbitMQ
+
 #Использование
     Заполним базу объектами
     $ ./initialize_db.py 
